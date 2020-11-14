@@ -1,0 +1,12 @@
+2020-11-14 16:53:31.3992 INFO Attempted Get All Authors
+2020-11-14 16:53:33.4875 INFO Successfully got all Authors.
+2020-11-14 17:03:30.2001 INFO Attempted Get All Authors
+2020-11-14 17:03:30.3706 INFO Successfully got all Authors.
+2020-11-14 17:05:36.3079 INFO Attempted Get All Authors
+2020-11-14 17:05:53.5446 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) - System.ComponentModel.Win32Exception (53): O caminho da rede não foi encontrado.
+2020-11-14 17:06:57.4540 INFO Attempted Get All Authors
+2020-11-14 17:07:13.2583 ERROR A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) - System.ComponentModel.Win32Exception (53): O caminho da rede não foi encontrado.
+2020-11-14 17:37:18.6440 INFO Attempted to get author with id:8
+2020-11-14 17:37:20.5882 WARN Author with id:8 was not found
+2020-11-14 17:37:52.1214 INFO Attempted to get author with id:8
+2020-11-14 17:37:52.3028 WARN Author with id:8 was not found
