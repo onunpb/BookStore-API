@@ -45,6 +45,13 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="M:BookStore_API.Controllers.AuthorsController.InternalError(System.String)">
+            <summary>
+            Internal Error message.
+            </summary>
+            <param name="message"></param>
+            <returns></returns>
+        </member>
         <member name="T:BookStore_API.Controllers.HomeController">
             <summary>
             This is a test API Controller
