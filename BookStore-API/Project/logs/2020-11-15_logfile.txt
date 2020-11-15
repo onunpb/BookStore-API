@@ -1,0 +1,55 @@
+2020-11-15 17:24:11.2999 WARN Author Submission Attempted.
+2020-11-15 17:24:11.6555 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 17:25:35.6104 WARN Author Submission Attempted.
+2020-11-15 17:25:35.7324 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 17:28:59.8395 WARN Author Submission Attempted.
+2020-11-15 17:28:59.9979 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 17:37:21.6881 WARN Author Submission Attempted.
+2020-11-15 17:37:24.8699 INFO Author Created.
+2020-11-15 19:23:57.7151 WARN Author update attempted - id: 1
+2020-11-15 19:23:57.9381 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 19:24:47.2389 WARN Author update attempted - id: 1
+2020-11-15 19:25:59.3317 WARN Author update attempted - id: 1
+2020-11-15 19:25:59.5282 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 19:31:02.4827 WARN Author update attempted - id: 1
+2020-11-15 19:31:02.7556 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-15 19:33:40.6174 WARN Author update attempted - id: 1
+2020-11-15 19:40:06.8527 WARN Author update attempted - id: 1
+2020-11-15 19:41:33.3070 INFO Attempted Get All Authors
+2020-11-15 19:41:33.7192 INFO Successfully got all Authors.
+2020-11-15 19:42:11.0320 INFO Attempted to get author with id:1
+2020-11-15 19:42:11.3696 INFO Successfully got Author with id:1
+2020-11-15 19:42:51.0241 INFO Attempted Get All Authors
+2020-11-15 19:42:51.1158 INFO Successfully got all Authors.
+2020-11-15 19:44:11.8410 WARN Author Submission Attempted.
+2020-11-15 19:44:12.0260 INFO Author Created.
+2020-11-15 19:44:24.5526 INFO Attempted Get All Authors
+2020-11-15 19:44:24.6235 INFO Successfully got all Authors.
+2020-11-15 19:44:30.2767 INFO Attempted to get author with id:2
+2020-11-15 19:44:30.3528 INFO Successfully got Author with id:2
+2020-11-15 20:02:18.8965 INFO Attempted Get All Authors
+2020-11-15 20:02:19.1838 INFO Successfully got all Authors.
