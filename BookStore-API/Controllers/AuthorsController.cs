@@ -37,7 +37,6 @@
         /// </summary>
         /// <returns>List of Authors</returns>
         [HttpGet]
-        [Authorize(Roles = "Administrator, Customer")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> GetAuthors()
@@ -63,7 +62,6 @@
         /// <param name="id">The identifier.</param>
         /// <returns>An Author's record</returns>
         [HttpGet("{id}")]
-        [Authorize(Roles = "Administrator, Customer")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
