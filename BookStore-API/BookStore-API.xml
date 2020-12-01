@@ -28,7 +28,7 @@
             Creates An Author
             </summary>
             <param name="authorDTO"></param>
-            <returns></returns>
+            <returns>Author Object</returns>
         </member>
         <member name="M:BookStore_API.Controllers.AuthorsController.Update(System.Int32,BookStore_API.DTO.AuthorUpdateDTO)">
             <summary>
@@ -50,6 +50,46 @@
             Internal Error message.
             </summary>
             <param name="message"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BookStore_API.Controllers.BooksController">
+            <summary>
+            Endpoint used to interact with the Books in the book store's database
+            </summary>
+            <seealso cref="T:Microsoft.AspNetCore.Mvc.ControllerBase" />
+        </member>
+        <member name="M:BookStore_API.Controllers.BooksController.GetBooks">
+            <summary>
+            Gets All the Books.
+            </summary>
+            <returns>List of Books.</returns>
+        </member>
+        <member name="M:BookStore_API.Controllers.BooksController.GetBook(System.Int32)">
+            <summary>
+            Gets a Book by id.
+            </summary>
+            <returns>A Book by Id.</returns>
+        </member>
+        <member name="M:BookStore_API.Controllers.BooksController.Create(BookStore_API.DTO.BookCreateDTO)">
+            <summary>
+            Creates a new book.
+            </summary>
+            <param name="bookcreateDTO">The book dto.</param>
+            <returns>Book Object</returns>
+        </member>
+        <member name="M:BookStore_API.Controllers.BooksController.Update(System.Int32,BookStore_API.DTO.BookUpdateDTO)">
+            <summary>
+            Updates the specified identifier.
+            </summary>
+            <param name="id">The identifier.</param>
+            <param name="bookUpdateDTO">The book update dto.</param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStore_API.Controllers.BooksController.Delete(System.Int32)">
+            <summary>
+            Deletes the book by Id.
+            </summary>
+            <param name="id">The identifier.</param>
             <returns></returns>
         </member>
         <member name="T:BookStore_API.Controllers.HomeController">
@@ -89,6 +129,13 @@
             
             </summary>
             <param name="id"></param>
+        </member>
+        <member name="M:BookStore_API.Controllers.UsersController.Login(BookStore_API.DTO.UserDTO)">
+            <summary>
+            User Login Endpoint.
+            </summary>
+            <param name="userDTO">The user dto.</param>
+            <returns></returns>
         </member>
     </members>
 </doc>

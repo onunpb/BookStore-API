@@ -1,0 +1,32 @@
+2020-12-01 14:50:18.7113 INFO Users - Login: Login Attempt from user admin
+2020-12-01 14:50:19.0546 INFO Users - Login: admin Not Authenticated.
+2020-12-01 14:52:19.7172 INFO Users - Login: Login Attempt from user admin
+2020-12-01 14:53:33.4530 INFO Users - Login: admin Not Authenticated.
+2020-12-01 14:53:37.8275 INFO Users - Login: Login Attempt from user admin
+2020-12-01 14:53:38.1379 INFO Users - Login: admin Succesfully Authenticated.
+2020-12-01 15:06:15.8341 INFO Authors - GetAuthors: Attempted Call.
+2020-12-01 15:06:16.1219 INFO Authors - GetAuthors: Successfull.
+2020-12-01 15:06:40.4563 INFO Authors - GetAuthor: Attempted to get author with id:2
+2020-12-01 15:06:40.5735 INFO Authors - GetAuthor: Successfully got Author with id:2
+2020-12-01 15:24:54.3190 INFO Users - Login: Login Attempt from user customer1
+2020-12-01 15:24:54.8141 INFO Users - Login: customer1 Succesfully Authenticated.
+2020-12-01 15:26:43.4521 INFO Users - Login: Login Attempt from user admin
+2020-12-01 15:26:43.6359 INFO Users - Login: admin Succesfully Authenticated.
+2020-12-01 15:27:41.4584 WARN Authors - Create: Create Attempted.
+2020-12-01 15:27:41.7911 INFO Authors - Create: Creation was succesful.
+2020-12-01 15:27:41.8117 INFO Authors - Create: BookStore_API.Data.Author
+2020-12-01 15:31:32.3711 INFO Users - Login: Login Attempt from user admin
+2020-12-01 15:31:32.7655 INFO Users - Login: admin Succesfully Authenticated.
+2020-12-01 15:40:21.0711 INFO Users - Login: Login Attempt from user admin
+2020-12-01 15:40:21.2333 INFO Users - Login: admin Succesfully Authenticated.
+2020-12-01 15:41:15.1263 WARN Authors - Create: Create Attempted.
+2020-12-01 15:41:15.5459 INFO Authors - Create: Creation was succesful.
+2020-12-01 15:41:15.5794 INFO Authors - Create: BookStore_API.Data.Author
+2020-12-01 15:51:29.1448 INFO Users - Login: Login Attempt from user admin
+2020-12-01 15:51:29.5327 INFO Users - Login: admin Succesfully Authenticated.
+2020-12-01 15:52:02.5243 INFO Authors - Update: Author with id: 4 Update attempted.
+2020-12-01 15:53:09.6901 INFO Authors - Update: Author with id: 4 Update attempted.
+2020-12-01 15:53:40.6636 INFO Authors - Update: Author with id: 5 Update attempted.
+2020-12-01 15:56:20.9997 INFO Users - Login: Login Attempt from user customer1
+2020-12-01 15:56:21.1440 INFO Users - Login: customer1 Succesfully Authenticated.
+2020-12-01 15:56:40.7812 INFO Authors - Delete: Author with id: 5 Delete attempted.

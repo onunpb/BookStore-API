@@ -2,7 +2,7 @@
 {
     using BookStore_API.Data;
 
-    public interface IAuthorRepository : IRepositoryBase<Author>
+    public interface IBookRepository : IRepositoryBase<Book>
     {
     }
 }

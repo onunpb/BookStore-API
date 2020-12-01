@@ -1,0 +1,52 @@
+2020-11-21 12:26:05.4977 INFO Attempted Get All Authors
+2020-11-21 12:26:07.7368 INFO Successfully got all Authors.
+2020-11-21 14:43:11.7498 INFO Attempted Get All Books
+2020-11-21 14:45:31.1531 INFO Attempted Get All Books
+2020-11-21 14:45:32.5909 INFO Succesfully got all Books.
+2020-11-21 16:06:26.6856 INFO Attempted Call
+2020-11-21 16:06:28.4700 INFO Books - GetBooks: Succesfull.
+2020-11-21 16:22:25.8900 WARN Author Submission Attempted.
+2020-11-21 16:22:27.4096 INFO Author Created.
+2020-11-21 16:22:55.7898 INFO Attempted Get All Authors
+2020-11-21 16:22:56.1143 INFO Successfully got all Authors.
+2020-11-21 16:24:18.4952 INFO Attempted Call
+2020-11-21 16:24:18.5977 INFO Books - GetBooks: Succesfull.
+2020-11-21 16:25:11.0695 INFO Books - GetBook: Attempted Call for id: 1
+2020-11-21 16:25:11.2255 WARN Books - GetBook: Failed to retrieve record with id: 1
+2020-11-21 16:25:16.4449 INFO Books - GetBook: Attempted Call for id: 2
+2020-11-21 16:25:16.4922 INFO Books - GetBook: Succesfully got record with id: 2
+2020-11-21 16:25:22.9369 INFO Books - GetBook: Attempted Call for id: 3
+2020-11-21 16:25:22.9756 INFO Books - GetBook: Succesfully got record with id: 3
+2020-11-21 17:50:13.7369 INFO Books - Create: Create Attempted.
+2020-11-21 17:50:15.5925 INFO Books - Create: Creation was succesful.
+2020-11-21 17:50:15.6148 INFO Books - Create: BookStore_API.Data.Book
+2020-11-21 17:52:06.6075 INFO Authors - GetAuthors: Attempted Call.
+2020-11-21 17:52:06.9889 INFO Authors - GetAuthors: Successfull.
+2020-11-21 17:56:24.8870 INFO Books - Create: Create Attempted.
+2020-11-21 17:57:22.4676 ERROR Books - Create: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Book
+System.Object -> BookStore_API.Data.Book - 
+2020-11-21 17:57:26.2706 INFO Books - Create: Create Attempted.
+2020-11-21 17:57:26.3984 ERROR Books - Create: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Book
+System.Object -> BookStore_API.Data.Book - 
+2020-11-21 23:12:46.8822 INFO Books - Update: Update Attempted on record with id: 4.
+2020-11-21 23:12:49.5813 INFO Books - Update: Record with id: 4 succesfully updated.
+2020-11-21 23:16:11.1532 INFO Books - Update: Update Attempted on record with id: 4.
+2020-11-21 23:16:11.2920 INFO Books - Update: Record with id: 4 succesfully updated.
+2020-11-21 23:23:04.7041 INFO Books - Update: Update Attempted on record with id: 4.
+2020-11-21 23:23:06.6703 INFO Books - Update: Record with id: 4 succesfully updated.
+2020-11-21 23:37:45.7485 INFO Books - Update: Update Attempted on record with id: 4.
+2020-11-21 23:37:47.7554 INFO Books - Update: Record with id: 4 succesfully updated.
+2020-11-21 23:46:56.0440 INFO Books - Delete: Book with id: 2 Delete attempted.
+2020-11-21 23:48:43.2570 INFO Books - Create: Create Attempted.
+2020-11-21 23:48:43.3891 INFO Books - Create: Creation was succesful.
+2020-11-21 23:48:43.4031 INFO Books - Create: BookStore_API.Data.Book
+2020-11-21 23:49:25.0355 INFO Books - GetBooks: Attempted Call
+2020-11-21 23:49:25.3368 INFO Books - GetBooks: Succesfull.
+2020-11-21 23:58:24.9960 INFO Authors - GetAuthors: Attempted Call.
+2020-11-21 23:58:26.4431 INFO Authors - GetAuthors: Successfull.
