@@ -1,0 +1,7 @@
+2020-12-08 15:19:03.2612 INFO Users - Register: Registration Attempt for nunoapbarros@gmail.com
+2020-12-08 15:19:03.4120 ERROR Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2020-12-08 15:19:03.4446 ERROR Users - Register: PasswordRequiresLower Passwords must have at least one lowercase ('a'-'z').
+2020-12-08 15:19:03.4755 ERROR Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2020-12-08 15:19:03.5047 ERROR Users - Register: nunoapbarros@gmail.com User Registration Attempt Failed
+2020-12-08 15:20:18.2104 INFO Users - Register: Registration Attempt for nunoapbarros@gmail.com
+2020-12-08 15:41:39.8327 INFO Users - Register: Registration Attempt for joaquim@gmail.com
