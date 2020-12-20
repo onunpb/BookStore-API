@@ -1,0 +1,29 @@
+2020-12-20 15:57:21.9857 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 15:57:22.1205 INFO Users - Login: customer1@gmail.com Not Authenticated.
+2020-12-20 16:01:29.5607 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 16:01:29.6078 INFO Users - Login: customer1@gmail.com Not Authenticated.
+2020-12-20 16:06:53.8853 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 16:06:53.9607 INFO Users - Login: customer1@gmail.com Not Authenticated.
+2020-12-20 16:08:11.3947 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 16:17:52.7280 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-12-20 16:17:52.9489 INFO Users - Login: admin@bookstore.com Not Authenticated.
+2020-12-20 16:19:16.7017 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-12-20 16:19:16.7447 INFO Users - Login: admin@bookstore.com Not Authenticated.
+2020-12-20 16:23:50.0699 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 16:25:31.0109 INFO Users - Login: customer1@gmail.com Not Authenticated.
+2020-12-20 16:25:39.5195 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-12-20 16:25:45.1042 INFO Users - Login: customer1@gmail.com Succesfully Authenticated.
+2020-12-20 16:28:54.6444 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-12-20 16:28:54.7420 INFO Users - Login: admin@bookstore.com Succesfully Authenticated.
+2020-12-20 16:31:07.8659 INFO Users - Register: Registration Attempt for clienttest1@gmail.com
+2020-12-20 16:31:51.9157 INFO Users - Login: Login Attempt from user clienttest1@gmail.com
+2020-12-20 16:31:52.0462 INFO Users - Login: clienttest1@gmail.com Succesfully Authenticated.
+2020-12-20 16:37:57.8102 INFO Users - Login: Login Attempt from user clienttest1@gmail.com
+2020-12-20 16:37:58.0801 INFO Users - Login: clienttest1@gmail.com Succesfully Authenticated.
+2020-12-20 16:41:33.7807 INFO Users - Login: Login Attempt from user nunoapbarros@gmail.com
+2020-12-20 16:41:33.8401 INFO Users - Login: nunoapbarros@gmail.com Succesfully Authenticated.
+2020-12-20 16:43:23.1222 INFO Users - Login: Login Attempt from user nunoapbarros@gmail.com
+2020-12-20 16:43:23.2230 INFO Users - Login: nunoapbarros@gmail.com Succesfully Authenticated.
+2020-12-20 17:00:05.4931 INFO Users - Register: Registration Attempt for clienttest2@gmail.com
+2020-12-20 17:00:25.5777 INFO Users - Login: Login Attempt from user clienttest2@gmail.com
+2020-12-20 17:00:25.7831 INFO Users - Login: clienttest2@gmail.com Succesfully Authenticated.

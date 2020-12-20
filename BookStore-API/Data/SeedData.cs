@@ -77,5 +77,7 @@ namespace BookStore_API.Data
                 await roleManager.CreateAsync(role);
             }
         }
+
+
     }
 }
